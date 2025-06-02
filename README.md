@@ -20,6 +20,9 @@ Make sure to install dependencies:
 npm install
 ```
 
+### Environment Variables
+create a .env based on the .env.example
+
 ### Compile and Hot-Reload for Development
 
 ```sh
@@ -31,6 +34,7 @@ npm run dev
 ```sh
 npm run build
 ```
+
 
 ### Run linter
 
